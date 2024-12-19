@@ -1,2 +1,2 @@
 # Leveraging-Deep-learning-for-medicinal-plant-Identification
-To classify 30 species of medicinal plants to provide automated solution  for non experts to identify medicinal plants.
+To classify 30 species of medicinal plants to provide automated solution  for non experts to identify medicinal plants.Leveraging custom deep learning model VGG-16 for recognition of medicinal plants.The project focuses on utilizing key advantage of VGG-16 to identify finer details of leaves and classify medicinal plants.This project will be further improved to work with more diverse medicinal plant dataset and decreasing the computational complexity of model.
